@@ -1,0 +1,6 @@
+{
+  "issuer": "https://baba-yu.github.io",
+  "jwks_uri": "https://baba-yu.github.io/.well-known/jwks.json",
+  "client_name": "baba-yu",
+  "logo_uri": "https://avatars.githubusercontent.com/u/45956747?v=4"
+}

@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "crv": "Ed25519",
+      "x": "TL4jprxXeGsUmmEaffWmH0RF-r7jdAALWb2C3Wjd9-I",
+      "kty": "OKP",
+      "alg": "Ed25519",
+      "kid": "2026-10-19_b58",
+      "use": "sig",
+      "aauth": {
+        "device": "desktop-1ioqm2r",
+        "created": "2026-10-19"
+      }
+    }
+  ]
+}
